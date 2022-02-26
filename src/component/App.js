@@ -1,8 +1,7 @@
-import './App.css';
-
-import Topbar from "./component/Topbar";
-import Cart from "./component/Cart";
-import Products from "./component/Products";
+import "./styles.css";
+import Topbar from "./Topbar";
+import Cart from "./Cart";
+import Products from "./Products";
 import { useState } from "react";
 
 export default function App() {
